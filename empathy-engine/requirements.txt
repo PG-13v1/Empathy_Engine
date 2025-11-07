@@ -1,0 +1,7 @@
+flask==3.0.3
+elevenlabs==0.2.27
+vaderSentiment==3.3.2
+requests==2.31.0
+python-dotenv==1.0.1
+torch==2.7.0
+pyttsx3==2.92
