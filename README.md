@@ -33,7 +33,8 @@ An advanced AI service that converts text into emotionally expressive speech by 
 1. Clone and navigate to the repository:
     ```bash
     git clone https://github.com/PG-13v1/Empathy_Engine.git
-    cd 
+    cd Empathy_Engine
+    cd empathy_engine
     ```
 
 2. Create and activate a virtual environment:
